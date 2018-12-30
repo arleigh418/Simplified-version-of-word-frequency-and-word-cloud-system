@@ -1,5 +1,5 @@
 # Simplified-version-of-word-frequency-and-word-cloud-system
-word frequency and word cloud system
+
 This system is a simple system for counting word frequency and generating word cloud.
 In this package,You need to run main.py.
 
